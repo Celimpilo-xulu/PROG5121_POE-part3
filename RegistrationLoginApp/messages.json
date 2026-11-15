@@ -1,0 +1,30 @@
+[
+  {
+    "messageID": "4341542794",
+    "messageHash": "43:0:HELLOTODAY?",
+    "recipient": "+27685541422",
+    "messageText": "Hello are you available today?",
+    "status": "Stored"
+  },
+  {
+    "messageID": "3979311378",
+    "messageHash": "39:1:HITHERE",
+    "recipient": "+27685541422",
+    "messageText": "hi there",
+    "status": "Stored"
+  },
+  {
+    "messageID": "2619860605",
+    "messageHash": "26:1:HITHERE",
+    "recipient": "+27685541422",
+    "messageText": "hi there",
+    "status": "Stored"
+  },
+  {
+    "messageID": "9787781419",
+    "messageHash": "97:1:HIJOINYOU",
+    "recipient": "+27685541422",
+    "messageText": "Hi mile can i join you ",
+    "status": "Stored"
+  }
+]
